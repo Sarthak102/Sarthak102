@@ -21,6 +21,8 @@
 - 📄 Know about my experiences [.](.)
 
 ![Sarthak102's Stats](https://github-readme-stats.vercel.app/api?username=Sarthak102&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)
+![Sarthak102's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarthak102&theme=highcontrast&hide_border=true)
+![Sarthak102's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak102&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
