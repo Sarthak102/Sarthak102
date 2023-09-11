@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sarthak Kamble</h1>
 <h3 align="center">I am a passionate developer from India I'm dedicated to creating software that solves real-world problems and makes a positive impact. I'm constantly seeking new challenges and opportunities to learn and grow</h3>
 
+<img width="1834" alt="Make your README" src="https://github.com/Sarthak102/Sarthak102/assets/91387298/8a14e163-1974-427a-a4d1-954f2ca585f5">
+<p align=”center”>
+
+<img width=”200" height=”200" src="https://github.com/Sarthak102/Sarthak102/assets/91387298/8a14e163-1974-427a-a4d1-954f2ca585f5" alt=”my banner”>
+
+</p>
 
 - 🔭 I’m currently working on **Docker Containerisation**
 
