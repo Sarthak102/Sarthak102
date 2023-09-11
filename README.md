@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sarthaktwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthaktwt" height="30" width="40" /></a>
+<a href="https://twitter.com/Sarthakkamblex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthaktwt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/sarthak-kamble-101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sarthak-kamble-101" height="30" width="40" /></a>
 <a href="https://instagram.com/sarthakkamble_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthakkamble_" height="30" width="40" /></a>
 <a href="https://hashnode.com/@sarthak101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sarthak101" height="30" width="40" /></a>
