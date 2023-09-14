@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [something](something)
 
-- 📝 I regularly write articles on [sarthakkamble.hashnode.dev](sarthakkamble.hashnode.dev)
+- 📝 I regularly write articles on [sarthakkamble.hashnode.dev](https://sarthakkamble.hashnode.dev/)
 
 - 💬 Ask me about **JS, React**
 
@@ -28,7 +28,7 @@
 
 ![Sarthak102's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak102&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
-### Blogs posts
+### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
