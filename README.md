@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **contributing.. to new projects**
 
-- 👨‍💻 All of my projects are available at [something](something)
+- 👨‍💻 All of my projects are available at [comming soon](something)
 
 - 📝 I regularly write articles on [sarthakkamble.hashnode.dev](https://sarthakkamble.hashnode.dev/)
 
