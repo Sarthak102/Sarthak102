@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sarthak Kamble</h1>
 <h3 align="center">I am a passionate developer from India I'm dedicated to creating software that solves real-world problems and makes a positive impact. I'm constantly seeking new challenges and opportunities to learn and grow</h3>
 
-<img width="1834" alt="Make your README (3)" src="https://github.com/Sarthak102/Sarthak102/assets/91387298/99426765-b510-4229-87b5-f61a17a8b82d">
+<img width="1834" alt="github-Cover" src="https://github.com/user-attachments/assets/2d3c2a4d-d850-4f7b-8d5e-efc036f90d2c">
 
 
 
 - 🔭 I’m currently working on **Docker Containerisation**
 
-- 🌱 I’m currently learning **Terraform, Docker, Kubernetes, AWS**
+- 🌱 I’m currently learning **React, Docker,  AWS**
 
-- 👯 I’m looking to collaborate on **Devops roles**
+- 👯 I’m looking to collaborate on **FullStack roles**
 
 - 🤝 I’m looking for help with **contributing.. to new projects**
 
