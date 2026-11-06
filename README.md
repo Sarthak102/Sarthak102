@@ -1,39 +1,31 @@
-<h1 align="center">Hi 👋, I'm Sarthak Kamble</h1>
-<h3 align="center">I am a passionate developer from India I'm dedicated to creating software that solves real-world problems and makes a positive impact. I'm constantly seeking new challenges and opportunities to learn and grow</h3>
+<a href="https://sarthak-kamble.vercel.app">
+  <img src="assets/banner.png" alt="Sarthak Kamble, full-stack developer" width="100%">
+</a>
 
-<img width="1834" alt="github-Cover" src="https://github.com/user-attachments/assets/2d3c2a4d-d850-4f7b-8d5e-efc036f90d2c">
+I'm a full-stack developer in India, working mostly with TypeScript, React and Node.js. I'm currently a Full Stack Developer Intern at Excelerate, building features on production evaluation platforms.
 
+**[Portfolio](https://sarthak-kamble.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/sarthak-kamble-101)** · **[X](https://x.com/sarthakkamblex)** · **[Email](mailto:sarthakkamble101@gmail.com)**
 
+## Featured project
 
-- 🔭 I’m currently working on **Nextjs**
+### [SplitSnap](https://github.com/Sarthak102/splitsnap)
 
-- 🌱 I’m currently learning **TypeScript, Nextjs**
+Scan a restaurant bill, tap what you ate, and pay your friend back. Friends join by link with no sign-up, claim items live, and pay their exact share by UPI or cash.
 
-- 👯 I’m looking to collaborate on **FullStack roles**
+**[Open the live app](https://splitsnap-wine.vercel.app)** · Next.js, TypeScript, Supabase, Cloudflare Workers AI
 
-- 🤝 I’m looking for help with **contributing.. to new projects**
+<a href="https://splitsnap-wine.vercel.app">
+  <img src="https://raw.githubusercontent.com/Sarthak102/splitsnap/main/docs/preview.gif" alt="A host and a friend splitting a bill on two phones" width="100%">
+</a>
 
-- 👨‍💻 All of my projects are available [here](https://portfolio1-ten-olive.vercel.app/)
+## Also building
 
-- 💬 Ask me about **JS, React**
+**Defend Your Code** (in progress): an AI mock interviewer that reads your own GitHub repo and asks why each line is the way it is.
 
-- 📫 How to reach me **sarthakkamble101@gmail.com**
+## What I work with
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Sarthakkamblex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthaktwt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarthak-kamble-101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-kamble-101" height="30" width="40" /></a>
-<a href="https://instagram.com/sarthakkamble_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthakkamble_" height="30" width="40" /></a>
-<a href="https://hashnode.com/@sarthak101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sarthak101" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sarthakkamble101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthakkamble101" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarthak101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthak101" height="30" width="40" /></a>
-<a href="/https://sarthakkamble.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sarthakkamble.hashnode.dev/rss.xml" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak102&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak102" /> </p>
-
-
+- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Backend:** Node.js, Express, Fastify, REST APIs
+- **Frontend and mobile:** React, Next.js, React Native (Expo), Redux Toolkit, TanStack Query, Tailwind CSS
+- **Data:** PostgreSQL, AWS DynamoDB, MongoDB, Supabase
+- **Cloud and tools:** AWS, Docker, Git, GitHub, Vercel
