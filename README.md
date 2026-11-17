@@ -6,7 +6,7 @@ I'm a full-stack developer in India, working mostly with TypeScript, React and N
 
 **[Portfolio](https://sarthak-kamble.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/sarthak-kamble-101)** · **[X](https://x.com/sarthakkamblex)** · **[Email](mailto:sarthakkamble101@gmail.com)**
 
-## Featured project
+## Featured projects
 
 ### [SplitSnap](https://github.com/Sarthak102/splitsnap)
 
@@ -16,6 +16,16 @@ Scan a restaurant bill, tap what you ate, and pay your friend back. Friends join
 
 <a href="https://splitsnap-wine.vercel.app">
   <img src="https://raw.githubusercontent.com/Sarthak102/splitsnap/main/docs/preview.gif" alt="A host and a friend splitting a bill on two phones" width="100%">
+</a>
+
+### [Softstroke](https://github.com/softstroke/softstroke)
+
+An open-source icon set of soft, rounded icons for web and mobile, each drawn in stroke and solid. Ships as packages for React, Vue, Svelte, Angular, React Native and Flutter, plus plain SVG and an icon font.
+
+**[Browse the icons](https://softstroke.github.io/softstroke/)** · [npm](https://www.npmjs.com/package/@softstroke/react) · [pub.dev](https://pub.dev/packages/softstroke)
+
+<a href="https://softstroke.github.io/softstroke/">
+  <img src="https://raw.githubusercontent.com/softstroke/softstroke/main/docs/preview.webp" alt="App cards built with Softstroke icons" width="100%">
 </a>
 
 ## Also building
